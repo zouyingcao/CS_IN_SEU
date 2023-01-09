@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Experiment">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Demo|ALU:inst5|lpm_add_sub1:inst5|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_0qh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Demo|GPRs:inst1|lpm_decode0:inst6|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_7uf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Demo|MEM:inst14|lpm_rom0:inst5|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_10a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Demo|lpm_counter0:inst7|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_ppj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Demo|GPRs:inst1|lpm_mux0:inst5|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_8qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Demo|MEM:inst14|lpm_ram_dq0:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_pkf1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Demo|ALU:inst5|lpm_mux1:inst3|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_8qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Demo|MEM:inst14|lpm_mux2:inst14|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_5qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Demo|lpm_mux3:inst|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_vpc.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
