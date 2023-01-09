@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Jan 04 22:28:25 2021
+Quartus II Version : 9.1 Build 350 03/24/2010 SP 2 SJ Web Edition
+Revision Name : Experiment
+Top-level Entity Name : Demo
+Family : Cyclone III
+Total logic elements : 187
+    Total combinational functions : 131
+    Dedicated logic registers : 88
+Total registers : 88
+Total pins : 47
+Total virtual pins : 0
+Total memory bits : 1,024
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
