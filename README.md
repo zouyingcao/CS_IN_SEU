@@ -12,7 +12,7 @@
 [计算机网络](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 
 ## CS夏令营常问专业课程（除408外）
-[编译原理]()
+[编译原理](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86)
 
 [数据库]()
 
