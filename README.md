@@ -20,7 +20,7 @@
 
 [计算机系统结构](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84)（如果你是走硬件方向，这一课程应该必问叭）
 
-## 那些有实践的专业课
+## 实践辛酸泪的专业课
 [计算机组成原理课程设计](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)（大二下）
 
 [JAVA技能实训](https://github.com/zouyingcao/CS_IN_SEU/tree/main/JAVA%E6%8A%80%E8%83%BD%E5%AE%9E%E8%AE%AD)（大二的暑期学校）
@@ -34,4 +34,13 @@
 
 [编译原理课程设计](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)（大三下）
 
+## 那些年我爱过的数学（们）
+[工科数学分析]()
 
+[线性代数]()
+
+[复变函数]()
+
+[离散数学]()
+
+[概率论]()
