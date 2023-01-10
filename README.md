@@ -5,10 +5,17 @@
 ## 所谓“408”
 [数据结构](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
-[计算机组成原理]()
+[计算机组成原理](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
 
 [操作系统](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 
 [计算机网络](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 
-## 
+## CS夏令营常问专业课程（除408外）
+[编译原理]()
+
+[数据库]()
+
+[算法设计与分析]()
+
+[计算机系统结构]()（如果你是走硬件方向，这一课程应该必问叭）
