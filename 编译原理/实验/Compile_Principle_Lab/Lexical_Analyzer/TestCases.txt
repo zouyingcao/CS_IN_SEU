@@ -1,0 +1,14 @@
+void main()
+{
+	int a=3,m=5;
+	double e=1;
+	for(int i=1;i<=m-1;++i)   e+=double(1)/fun(i);
+	123a;
+}
+int fun (int n)
+{
+	long long s=1;
+	for (int i=1;i<=n;++i)
+		s*=i;
+	return s;
+}

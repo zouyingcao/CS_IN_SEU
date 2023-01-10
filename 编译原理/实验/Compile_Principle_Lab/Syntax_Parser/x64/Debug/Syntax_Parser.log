@@ -1,0 +1,78 @@
+﻿  Syntax_Parser.cpp
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(105,91): warning C4311: “类型强制转换”: 从“_Ty”到“int”的指针截断
+          with
+          [
+              _Ty=void *
+          ]
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(105,91): warning C4302: “类型强制转换”: 从“_Ty”到“int”截断
+          with
+          [
+              _Ty=void *
+          ]
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(105,95): warning C4312: “类型强制转换”: 从“int”转换到更大的“void *”
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(106,57): warning C4311: “类型强制转换”: 从“_Ty”到“int”的指针截断
+          with
+          [
+              _Ty=void *
+          ]
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(106,57): warning C4302: “类型强制转换”: 从“_Ty”到“int”截断
+          with
+          [
+              _Ty=void *
+          ]
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(108,92): warning C4311: “类型强制转换”: 从“_Ty”到“int”的指针截断
+          with
+          [
+              _Ty=void *
+          ]
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(108,92): warning C4302: “类型强制转换”: 从“_Ty”到“int”截断
+          with
+          [
+              _Ty=void *
+          ]
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(137,7): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(159,57): warning C4311: “类型强制转换”: 从“_Ty”到“int”的指针截断
+          with
+          [
+              _Ty=void *
+          ]
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(159,57): warning C4302: “类型强制转换”: 从“_Ty”到“int”截断
+          with
+          [
+              _Ty=void *
+          ]
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(190,93): warning C4311: “类型强制转换”: 从“_Ty”到“int”的指针截断
+          with
+          [
+              _Ty=void *
+          ]
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(190,93): warning C4302: “类型强制转换”: 从“_Ty”到“int”截断
+          with
+          [
+              _Ty=void *
+          ]
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(190,97): warning C4312: “类型强制转换”: 从“int”转换到更大的“void *”
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(191,59): warning C4311: “类型强制转换”: 从“_Ty”到“int”的指针截断
+          with
+          [
+              _Ty=void *
+          ]
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(191,59): warning C4302: “类型强制转换”: 从“_Ty”到“int”截断
+          with
+          [
+              _Ty=void *
+          ]
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(193,94): warning C4311: “类型强制转换”: 从“_Ty”到“int”的指针截断
+          with
+          [
+              _Ty=void *
+          ]
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(193,94): warning C4302: “类型强制转换”: 从“_Ty”到“int”截断
+          with
+          [
+              _Ty=void *
+          ]
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(253,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(271,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\Syntax_Parser\Syntax_Parser.cpp(282,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Syntax_Parser.vcxproj -> D:\东大之学习\大三\大三上\编译原理\lab\Compile_Principle_Lab\x64\Debug\Syntax_Parser.exe
