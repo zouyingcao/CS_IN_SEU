@@ -30,7 +30,7 @@
 
 [数字图像处理](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86)（大三上）
 
-[软件工程]()（大三下）
+[软件工程](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)（大三下）
 
 [编译原理课程设计]()（大三下）
 
