@@ -18,4 +18,4 @@
 
 [算法设计与分析]()
 
-[计算机系统结构]()（如果你是走硬件方向，这一课程应该必问叭）
+[计算机系统结构](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84)（如果你是走硬件方向，这一课程应该必问叭）
