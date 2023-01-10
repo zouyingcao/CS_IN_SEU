@@ -23,7 +23,7 @@
 ## 那些有实践的专业课
 [计算机组成原理课程设计](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)（大二下）
 
-[JAVA技能实训]()（大二的暑期学校）
+[JAVA技能实训](https://github.com/zouyingcao/CS_IN_SEU/tree/main/JAVA%E6%8A%80%E8%83%BD%E5%AE%9E%E8%AE%AD)（大二的暑期学校）
 
 [软件工程]()
 
