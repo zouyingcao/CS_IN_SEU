@@ -32,6 +32,6 @@
 
 [软件工程](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)（大三下）
 
-[编译原理课程设计]()（大三下）
+[编译原理课程设计](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)（大三下）
 
 
