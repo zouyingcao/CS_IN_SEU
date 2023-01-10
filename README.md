@@ -25,11 +25,13 @@
 
 [JAVA技能实训](https://github.com/zouyingcao/CS_IN_SEU/tree/main/JAVA%E6%8A%80%E8%83%BD%E5%AE%9E%E8%AE%AD)（大二的暑期学校）
 
-[软件工程]()
+[算法与数据结构专题实践](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%93%E9%A2%98%E5%AE%9E%E8%B7%B5)
+（大三上）
 
 [数字图像处理](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86)（大三上）
 
-[编译原理课程设计]()
+[软件工程]()（大三下）
 
-[算法与数据结构专题实践]()
+[编译原理课程设计]()（大三下）
+
 
