@@ -14,7 +14,7 @@
 ## CS夏令营常问专业课程（除408外）
 [编译原理](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86)
 
-[数据库]()
+[数据库](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8E%9F%E7%90%86)
 
 [算法设计与分析]()
 
