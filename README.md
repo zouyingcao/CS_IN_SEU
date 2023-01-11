@@ -35,7 +35,7 @@
 [编译原理课程设计](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)（大三下）
 
 ## 那些年我爱过的数学（们）
-[工科数学分析]()
+[工科数学分析](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%95%B0%E5%AD%A6/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90)
 
 [线性代数]()
 
