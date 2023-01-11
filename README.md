@@ -16,7 +16,7 @@
 
 [数据库](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8E%9F%E7%90%86)
 
-[算法设计与分析]()
+[算法设计与分析](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%86%E6%9E%90)
 
 [计算机系统结构](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84)（如果你是走硬件方向，这一课程应该必问叭）
 
