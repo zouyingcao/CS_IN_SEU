@@ -39,7 +39,7 @@
 
 [线性代数]()
 
-[复变函数]()
+[复变函数](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%95%B0%E5%AD%A6/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0)
 
 [离散数学](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6)
 
