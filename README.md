@@ -41,6 +41,6 @@
 
 [复变函数]()
 
-[离散数学]()
+[离散数学](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6)
 
 [概率论]()
