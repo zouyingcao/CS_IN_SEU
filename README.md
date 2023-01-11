@@ -37,7 +37,7 @@
 ## 那些年我爱过的数学（们）
 [工科数学分析](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%95%B0%E5%AD%A6/%E5%B7%A5%E7%A7%91%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90)
 
-[线性代数]()
+[线性代数](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%95%B0%E5%AD%A6/%E7%BA%BF%E4%BB%A3)
 
 [复变函数](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%95%B0%E5%AD%A6/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0)
 
