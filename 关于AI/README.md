@@ -12,6 +12,8 @@
 
 [配套dl2017笔记](http://www.ai-start.com/dl2017/)
 
+[神经网络与深度学习 - FDU - 邱锡鹏](https://nndl.github.io/nndl-book.pdf)
+
 ## 强化学习资料
 [动手学强化学习](http://hrl.boyuai.com/chapter/intro)
 
