@@ -20,3 +20,6 @@
 [Sutton强化学习书的参考答案](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions/blob/master/Chapter%203/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_3_rx1.pdf)
 
 [周博磊的强化学习纲要](https://space.bilibili.com/511221970?spm_id_from=333.788.b_765f7570696e666f.1)
+
+## 其他
+[NLP-Beginner：自然语言处理入门练习](https://github.com/FudanNLP/nlp-beginner)
