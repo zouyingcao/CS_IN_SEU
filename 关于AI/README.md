@@ -6,7 +6,9 @@
 [配套ML2014中文笔记](http://www.ai-start.com/ml2014/)
 
 ## 深度学习资料
-[动手学深度学习](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+[动手学深度学习-PyTorch版](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+
+[动手学深度学习-Tensorflow2.0 版](https://trickygo.github.io/Dive-into-DL-TensorFlow2.0/#/)
 
 [吴恩达深度学习deeplearning.ai_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FT4y1E74V?p=2&spm_id_from=pageDriver)
 
