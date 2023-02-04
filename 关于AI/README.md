@@ -17,7 +17,7 @@
 [神经网络与深度学习 - FDU - 邱锡鹏](https://nndl.github.io/nndl-book.pdf)
 
 ## 强化学习资料
-[动手学强化学习](http://hrl.boyuai.com/chapter/intro)
+[动手学强化学习](http://hrl.boyuai.com/chapter/intro)、[配套代码](https://github.com/boyu-ai/Hands-on-RL)
 
 [Sutton强化学习书的参考答案](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions/blob/master/Chapter%203/Solutions_to_Reinforcement_Learning_by_Sutton_Chapter_3_rx1.pdf)
 
