@@ -44,3 +44,8 @@
 [离散数学](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%95%B0%E5%AD%A6/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6)
 
 [概率论](https://github.com/zouyingcao/CS_IN_SEU/tree/main/%E6%95%B0%E5%AD%A6/%E6%A6%82%E7%8E%87%E8%AE%BA)
+
+## 写在最后
+今天是2023年2月10日，本科期间最后一门计算机系统课程设计也正式结课了，我也打算把这个仓库public了（算是一种纪念并非学习资料开源，因为只有我自己知道自己本科的代码写的多么混乱），里面可能存在一些作业的痕迹，但CS人最重要的便是动手能力，还是相信SEUer的学弟学妹们即使看到这个仓库也会对此不屑一顾吧！
+
+Anyway，愿得到与付出成正比！这是我贯穿学业生涯的座右铭与希冀~
